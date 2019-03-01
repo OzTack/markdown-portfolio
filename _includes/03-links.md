@@ -1,1 +1,1 @@
-[My web site] (https://gottagetalife.com)
+[My web site](https://gottagetalife.com)
